@@ -7,7 +7,7 @@
     "lint": "bunx @biomejs/biome lint ./src"
   },
   "dependencies": {
-    "@biomejs/biome": "^1.8.2",
+    "@biomejs/biome": "^2.0.0",
     "hono": "^4.4.6"
   },
   "devDependencies": {
